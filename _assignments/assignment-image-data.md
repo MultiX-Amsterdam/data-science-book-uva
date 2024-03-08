@@ -1,7 +1,6 @@
 ---
 title: "A3: Image Data"
 layout: forward
-target: https://multix.io/data-science-book-uva/error
+target: https://multix.io/image-data-module/docs/assignment-image-data.html
 nav_order: 2
-nav_exclude: true
 ---

@@ -8,7 +8,7 @@ nav_order: 2
 
 (Last updated: Feb 2, 2024)
 
-This lecture gives a tutorial about the [Smell Pittsburgh project](https://smellpgh.org/) using a Jupyter Notebook. The learning goals can be found on [this link](https://multix.io/structured-data-module/docs/overview-structured-data.html).
+This lecture gives a tutorial about the [Smell Pittsburgh project](https://smellpgh.org/) using a Jupyter Notebook. The learning goals can be found on [this link](https://multix.io/structured-data-module/).
 
 ## Preparation
 

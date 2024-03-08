@@ -8,7 +8,7 @@ nav_order: 6
 
 (Last updated: Feb 29, 2024)
 
-This lecture gives a tutorial about text data processing using a Jupyter Notebook. The learning goals can be found on [this link](https://multix.io/text-data-module/docs/overview-text-data.html).
+This lecture gives a tutorial about text data processing using a Jupyter Notebook. The learning goals can be found on [this link](https://multix.io/text-data-module/).
 
 ## Preparation
 
@@ -30,3 +30,6 @@ Below are websites related to this tutorial:
 - [NLTK: Natural Language Toolkit](https://www.nltk.org/)
 - [spaCy: Industrial-Strength Natural Language Processing](https://spacy.io/)
 - [PyTorch: An Open Source Machine Learning Framework](https://pytorch.org/)
+
+The following video explains how to build ChatGPT:
+- [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)

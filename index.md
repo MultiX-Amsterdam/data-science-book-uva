@@ -53,7 +53,7 @@ Below are the explanation of terms:
   - We will provide a [mock exam](others/mock-exam-1) for next week's mid-term exam.
   - For the seminar, work on the mock-up exam, Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
 - Week 4
-  - **Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.
+  - <span style="color:red">**Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.</span>
   - A lecture to discuss the mid-term exam questions (Feb 29)
 - Week 5
   - [Lecture 7 (Mar 5)](lectures/lec7): Tutorial for the text data processing module (using Jupyter Notebook)
@@ -72,6 +72,6 @@ Below are the explanation of terms:
   - Lecture 12 (Mar 21): Review of final exam materials (the first hour) and a guest lecture (the second hour) by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) about using crowdsourcing in data science research. **This lecture will be given remotely.**
   - For the seminar, there is no assignment this week. Use the time to [prepare for the final exam](syllabus#exam-preparation).
 - Week 8
-  - **Final Exam (Mar 26)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the final exam.
+  - <span style="color:red">**Final Exam (Mar 26)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the final exam.</span>
 - After this course
   - **Resit (check DataNose for the date)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the resit.

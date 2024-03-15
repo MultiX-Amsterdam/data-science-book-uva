@@ -68,8 +68,8 @@ Below are the explanation of terms:
     - You need to submit the [reflective writing](syllabus#reflective-writing-of-assignments) by `Mar 16 Saturday at 23:59`.
   - For the seminar, work on Assignment 3.
 - Week 7
-  - Lecture 11 (Mar 19): Introduction of multimodal data processing
-  - Lecture 12 (Mar 21): Review of final exam materials (the first hour) and a guest lecture (the second hour) by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) about using crowdsourcing in data science research. **This lecture will be given remotely.**
+  - Lecture 11 (Mar 19): Introduction of multimodal data processing (the first hour) and review of final exam materials (the second hour)
+  - Lecture 12 (Mar 21): Review of mock final exam (the first hour) and a guest lecture (the second hour) by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) about using crowdsourcing in data science research. **This lecture will be given remotely.**
   - Check the [mock exam](others/mock-exam) page to prepare for next week's final exam.
   - For the seminar, there is no assignment this week. Use the time to [prepare for the final exam](syllabus#exam-preparation).
 - Week 8

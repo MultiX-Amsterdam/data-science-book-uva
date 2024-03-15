@@ -26,6 +26,10 @@ Follow the steps below to set up the notebook:
 
 ## Additional Resources
 
+Below are the videos that students found useful in understanding more about the course materials:
+- [Pandas Resample | pd.DataFrame.resample()](https://www.youtube.com/watch?v=l4dvMiSDBzs)
+- [Python Rolling Window Functions explained in 4 minutes](https://www.youtube.com/watch?v=7PqxHknEfn4)
+
 Below are websites related to this tutorial:
 - [The Smell Pittsburgh Dataset](https://github.com/CMU-CREATE-Lab/smell-pittsburgh-prediction/tree/master/dataset/v1)
 - [The scikit-learn API](https://scikit-learn.org/stable/modules/classes.html)

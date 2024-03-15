@@ -23,6 +23,9 @@ Watch the following videos to understand some math concepts that will be used in
 
 ## Additional Resources
 
+A video that explains the attention mechanism:
+- [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)
+
 The following paper explains Topic Modeling and the intuitions:
 - [Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77-84.](https://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
 

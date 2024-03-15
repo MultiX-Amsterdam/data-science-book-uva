@@ -50,7 +50,7 @@ Below are the explanation of terms:
   - [Lecture 5 (Feb 20)](lectures/lec5): Overview of deep learning techniques and applications
   - [Lecture 6 (Feb 22)](lectures/lec6): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
   - [Practice 2](https://multix.io/structured-data-module/docs/pytorch-structured-data.html): PyTorch implementation of structured data processing
-  - We will provide a [mock exam](others/mock-exam-1) for next week's mid-term exam.
+  - Check the [mock exam](others/mock-exam) page to prepare for next week's mid-term exam.
   - For the seminar, work on the mock-up exam, Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
 - Week 4
   - <span style="color:red">**Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.</span>
@@ -70,6 +70,7 @@ Below are the explanation of terms:
 - Week 7
   - Lecture 11 (Mar 19): Introduction of multimodal data processing
   - Lecture 12 (Mar 21): Review of final exam materials (the first hour) and a guest lecture (the second hour) by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) about using crowdsourcing in data science research. **This lecture will be given remotely.**
+  - Check the [mock exam](others/mock-exam) page to prepare for next week's final exam.
   - For the seminar, there is no assignment this week. Use the time to [prepare for the final exam](syllabus#exam-preparation).
 - Week 8
   - <span style="color:red">**Final Exam (Mar 26)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the final exam.</span>

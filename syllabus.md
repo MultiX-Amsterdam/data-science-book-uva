@@ -156,8 +156,7 @@ You can use the question mark "?" syntax to [access the IPython help](https://ip
 > It is not allowed to do exams at home or remotely at other locations. You will have no internet access during the exams.
 
 Exams contains only multiple-choice questions to test your general knowledge of data science and also coding knowledge.
-We will provide only one mock exam before the mid-term exam for you to practice.
-No mock-up exam will be provided for the final exam.
+We will provide mock exams for you to practice.
 
 We will use guess correction for your score on the multiple-choice questions.
 Details about how the ANS system uses guess correction is in [this online document](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction).

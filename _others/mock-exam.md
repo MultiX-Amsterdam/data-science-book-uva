@@ -1,12 +1,21 @@
 ---
-title: "Mock Exam"
+title: "Mock Mid-term Exam"
 layout: mathjax
 nav_order: 0
 ---
 
 # Mock Exam
 
-(Last updated: Feb 14, 2024)
+(Last updated: Mar 15, 2024)
+
+## Mock Final Exam
+
+Below we provide a mock final exam and the answers.
+
+- [Mock Final Exam](files/mock-final-exam-1.pdf)
+- [Answer Mock Final Exam](files/answer-mock-final-exam-1.pdf)
+
+## Mock Mid-term Exam
 
 {: .important }
 > Notice that this mock exam only contains a part of the real exam. In the real exam, there will be more questions.

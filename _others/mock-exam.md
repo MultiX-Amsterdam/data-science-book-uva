@@ -1,5 +1,5 @@
 ---
-title: "Mock Mid-term Exam"
+title: "Mock Exam"
 layout: mathjax
 nav_order: 0
 ---

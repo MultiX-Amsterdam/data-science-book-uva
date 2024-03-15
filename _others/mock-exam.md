@@ -12,8 +12,8 @@ nav_order: 0
 
 Below we provide a mock final exam and the answers.
 
-- [Mock Final Exam](files/mock-final-exam-1.pdf)
-- [Answer Mock Final Exam](files/answer-mock-final-exam-1.pdf)
+- [Mock Final Exam](../files/mock-final-exam-1.pdf)
+- [Answer Mock Final Exam](../files/answer-mock-final-exam-1.pdf)
 
 ## Mock Mid-term Exam
 

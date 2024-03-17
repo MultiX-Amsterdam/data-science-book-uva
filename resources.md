@@ -133,6 +133,12 @@ Below is a list of course notes and materials for reinforcement learning.
 - [10-703: Deep Reinforcement Learning, Carnegie Mellon University](https://cmudeeprl.github.io/703website_f22/)
 - [COMPM050: Reinforcement Learning, University College London](https://www.davidsilver.uk/teaching/)
 
+## Multimodal Learning Courses
+
+Below is a list of course notes and materials for multimodal learning.
+
+- [11-777: Multimodal Machine Learning, Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-course/fall2023/)
+
 ## Videos
 
 Below is a list of online learning videos.

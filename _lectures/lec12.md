@@ -11,7 +11,7 @@ nav_exclude: true
 
 ## Preparation
 
-TBA
+There is no preparation material for this lecture.
 
 ## Materials
 

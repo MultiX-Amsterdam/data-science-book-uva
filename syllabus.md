@@ -13,7 +13,7 @@ nav_order: 1
 - TOC
 {:toc}
 
-(Last updated: Feb 27, 2024)
+(Last updated: Mar 19, 2024)
 
 {: .highlight }
 > Data science is about turning rich data into **actionable insight** and making data **impactful**!
@@ -138,8 +138,9 @@ You must submit your work to Canvas.
 Please carefully consider your submission time and do not wait until the last moment to do so.
 Late submissions within 24 hours receive no penalty.
 
-{: .warning }
-> Submissions that are more than 24 hours late will receive a fail grade.
+After 24 hours of the deadline, you can still submit the assignments, and we will grade them.
+But you will receive only 50% of the points.
+For example, if you should have 10 points for your submission, you will only get 5 points as a result (due to submitting the assignment more than 24 hours late).
 
 For special requests (e.g., deadline extensions) due to personal circumstances that impact your learning, please check the [Support for Students Wellness](#support-for-students-wellness) section.
 

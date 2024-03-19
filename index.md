@@ -53,8 +53,12 @@ Below are the explanation of terms:
   - Check the [mock exam](others/mock-exam) page to prepare for next week's mid-term exam.
   - For the seminar, work on the mock-up exam, Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
 - Week 4
-  - <span style="color:red">**Mid-term Exam (Feb 27)**, covering materials from [Lecture 1](lectures/lec1), [Lecture 2](lectures/lec2), [Lecture 3](lectures/lec3), [Lecture 4](lectures/lec4), [Lecture 5](lectures/lec5), [Practice 1](practices/python-warm-up), and [Assignment 1](https://multix.io/structured-data-module/docs/assignment-structured-data.html). Lecture 6 and Practice 2 are not covered in the mid-term exam.</span>
+  - <span style="color:red">**Mid-term exam (Feb 27)**</span>
   - A lecture to discuss the mid-term exam questions (Feb 29)
+
+{: .important }
+> The mid-term exam covers materials from [Lecture 1](lectures/lec1), [Lecture 2](lectures/lec2), [Lecture 3](lectures/lec3), [Lecture 4](lectures/lec4), [Lecture 5](lectures/lec5), [Practice 1](practices/python-warm-up), and [Assignment 1](https://multix.io/structured-data-module/docs/assignment-structured-data.html). Lecture 6 and Practice 2 are not covered in the mid-term exam.
+
 - Week 5
   - [Lecture 7 (Mar 5)](lectures/lec7): Tutorial for the text data processing module (using Jupyter Notebook)
   - [Lecture 8 (Mar 7)](lectures/lec8): Explain details in the pipeline of processing text data
@@ -73,6 +77,10 @@ Below are the explanation of terms:
   - Check the [mock exam](others/mock-exam) page to prepare for next week's final exam.
   - For the seminar, there is no assignment this week. Use the time to [prepare for the final exam](syllabus#exam-preparation).
 - Week 8
-  - <span style="color:red">**Final Exam (Mar 26)**, covering materials from [Lecture 1](lectures/lec1), [Lecture 2](lectures/lec2), [Lecture 3](lectures/lec3), [Lecture 4](lectures/lec4), [Lecture 5](lectures/lec5), [Lecture 6](lectures/lec6), [Lecture 7](lectures/lec7), [Lecture 8](lectures/lec8), [Lecture 9](lectures/lec9), [Lecture 10](lectures/lec10), [Lecture 11](lectures/lec11), [Practice 1](practices/python-warm-up), [Practice 2](https://multix.io/structured-data-module/docs/pytorch-structured-data.html), [Assignment 1](https://multix.io/structured-data-module/docs/assignment-structured-data.html), [Assignment 2](https://multix.io/text-data-module/docs/assignment-text-data.html), and [Assignment 3](https://multix.io/image-data-module/docs/assignment-image-data.html). Lecture 12 is not covered in the final exam.</span>
+  - <span style="color:red">**Final exam (Mar 26)**</span>
+
+{: .important }
+> The final exam and the resit covers materials from [Lecture 1](lectures/lec1), [Lecture 2](lectures/lec2), [Lecture 3](lectures/lec3), [Lecture 4](lectures/lec4), [Lecture 5](lectures/lec5), [Lecture 6](lectures/lec6), [Lecture 7](lectures/lec7), [Lecture 8](lectures/lec8), [Lecture 9](lectures/lec9), [Lecture 10](lectures/lec10), [Lecture 11](lectures/lec11), [Practice 1](practices/python-warm-up), [Practice 2](https://multix.io/structured-data-module/docs/pytorch-structured-data.html), [Assignment 1](https://multix.io/structured-data-module/docs/assignment-structured-data.html), [Assignment 2](https://multix.io/text-data-module/docs/assignment-text-data.html), and [Assignment 3](https://multix.io/image-data-module/docs/assignment-image-data.html). Lecture 12 is not covered in the final exam or resit.
+
 - After this course
-  - **Resit (check DataNose for the date)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the resit.
+  - <span style="color:red">**Resit (check DataNose for the date)**</span>

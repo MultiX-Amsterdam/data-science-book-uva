@@ -71,6 +71,7 @@ Below is a list of course notes and materials for machine learning.
 - [Intro and Overview Machine Learning Lecture, Stuttgart Media University](https://hannibunny.github.io/mlbook/intro.html)
 - [CIS 419/519 : Applied Machine Learning, University of Pennsylvania](https://www.seas.upenn.edu/~cis5190/fall2020/index.html)
 - [Introduction to Machine Learning, Google LLC](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [Machine Learning from Scratch, Harvard Medical School](https://github.com/DrugowitschLab/ML-from-scratch-seminar)
 
 ## Statistics Courses
 

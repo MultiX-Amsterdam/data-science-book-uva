@@ -138,7 +138,7 @@ You must submit your work to Canvas.
 Please carefully consider your submission time and do not wait until the last moment to do so.
 Late submissions within 24 hours receive no penalty.
 
-After 24 hours of the deadline, you can still submit the assignments, and we will grade them.
+After 24 hours of the deadline, you can still submit the reflective writing assignments by the end of Friday of the course's final week (i.e., by the end of Friday of Week 8) in the Amsterdam time zone.
 But you will receive only 50% of the points.
 For example, if you should have 10 points for your submission, you will only get 5 points as a result (due to submitting the assignment more than 24 hours late).
 

@@ -95,7 +95,7 @@ According to the [UvA rule](https://www.uva.nl/en/about-the-uva/policy-and-regul
 This means that if you take the resit, your resit score will override the weighted sum of your mid-term and final exam grades.
 
 {: .warning }
-> - The final exam and the resit will be more difficult than (or at least as difficult as) the mid-term exam since you have more time to study the materials. The resit will be at least as difficult as the final exam.
+> The final exam and the resit will be more difficult than (or at least as difficult as) the mid-term exam since you have more time to study the materials. The resit will be at least as difficult as the final exam.
 
 The base grade for each exam is 1, and there is no minimum grade requirement for each exam.
 The base grade only applies when you attend the exam.

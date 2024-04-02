@@ -100,7 +100,7 @@ This means that if you take the resit, your resit score will override the weight
 The base grade for each exam is 1, and there is no minimum grade requirement for each exam.
 The base grade only applies when you attend the exam.
 If you miss the exam, the grade will be 0 for that exam.
-However, according to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), you need to get at least 5.5 in the final score (i.e., the weighted sum of the scores of the mid-term and final exams) to pass the course.
+However, according to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), you need to get at least 5.5 in the final score (i.e., the weighted sum of the scores of all exams and assignments) to pass the course.
 After each exam, the teaching team will grade the exam and release the grades as soon as possible.
 After the grade is released, we will announce on Canvas how students can inspect their exam results.
 

@@ -72,6 +72,7 @@ Below is a list of course notes and materials for machine learning.
 - [CIS 419/519 : Applied Machine Learning, University of Pennsylvania](https://www.seas.upenn.edu/~cis5190/fall2020/index.html)
 - [Introduction to Machine Learning, Google LLC](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Machine Learning from Scratch, Harvard Medical School](https://github.com/DrugowitschLab/ML-from-scratch-seminar)
+- [APS360: Fundamentals of AI, University of Toronto](https://www.cs.toronto.edu/~lczhang/aps360_20191/)
 
 ## Statistics Courses
 
@@ -89,8 +90,6 @@ Below is a list of course notes and materials for data science.
 
 - [Data 8: The Foundations of Data Science, UC Berkeley](https://data-8.github.io/) and [its course note](https://inferentialthinking.com/)
 - [DSC 10: Principles of Data Science, UC San Diego](https://dsc10.com/) and [its course note](https://notes.dsc10.com/)
-- [I310D: Introduction to Human-Centered Data Science, University of Texas at Austin](https://www.ischool.utexas.edu/ischool-course-offerings?courseID=443)
-- [Human-Centered Data Science, FU Berlin](https://www.mi.fu-berlin.de/en/inf/groups/hcc/teaching/Past-Terms/winter_term_2020_21/course_human_centered_data_science.html) and their [course materials](https://github.com/FUB-HCC/hcds-winter-2020)
 - [Introduction to Research Data Science, The Alan Turing Institute](https://alan-turing-institute.github.io/rds-course/)
 - [Cheatsheet for data science tools, Massachusetts Institute of Technology](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 - [COMP 5360: Introduction to Data Science, University of Utah](https://datasciencecourse.net/2022/) and [its GitHub](https://github.com/datascience-course)
@@ -113,7 +112,7 @@ Below is a list of course notes and materials for computer vision.
 - [CSE/ECE 576: Computer Vision, University of Washington](https://courses.cs.washington.edu/courses/cse576/20sp/)
 - [CS5670: Introduction to Computer Vision, Cornell Tech](http://www.cs.cornell.edu/courses/cs5670/2022sp/)
 - [6.819/6.869: Advances in Computer Vision, Massachusetts Institute of Technology](http://6.869.csail.mit.edu/sp21/schedule.html)
-- [16-385: Computer Vision, Carnegie Mellon Univewrsity](http://16385.courses.cs.cmu.edu/fall2022/)
+- [16-385: Computer Vision, Carnegie Mellon University](http://16385.courses.cs.cmu.edu/fall2022/)
 - [EECS 498.008 / 598.008: Deep Learning for Computer Vision, University of Michigan](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
 - [EECS 442: Computer Vision, University of Michigan](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/)
 - [CPSC 425: Computer Vision, University of British Columbia](https://www.cs.ubc.ca/~lsigal/teaching20_Term1.html)
@@ -133,6 +132,15 @@ Below is a list of course notes and materials for reinforcement learning.
 - [CS 285: Deep Reinforcement Learning, University of California, Berkeley](https://rail.eecs.berkeley.edu/deeprlcourse/) and [their videos](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9)
 - [10-703: Deep Reinforcement Learning, Carnegie Mellon University](https://cmudeeprl.github.io/703website_f22/)
 - [COMPM050: Reinforcement Learning, University College London](https://www.davidsilver.uk/teaching/)
+
+## Human-Centered AI Courses
+
+Below is a list of course notes and materials for human-centered AI topics:
+
+- [CS 329X: Human-Centered NLP, Stanford University](https://web.stanford.edu/class/cs329x/)
+- [I310D: Introduction to Human-Centered Data Science, University of Texas at Austin](https://www.ischool.utexas.edu/ischool-course-offerings?courseID=443)
+- [Human-Centered Data Science, FU Berlin](https://www.mi.fu-berlin.de/en/inf/groups/hcc/teaching/Past-Terms/winter_term_2020_21/course_human_centered_data_science.html) and their [course materials](https://github.com/FUB-HCC/hcds-winter-2020)
+- [17-537: AI Methods for Social Good, Carnegie Mellon University](https://aiandsocialgoodlab.github.io/17737s24/)
 
 ## Multimodal Learning Courses
 

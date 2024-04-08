@@ -19,10 +19,10 @@ nav_order: 1
 > Data science is about turning rich data into **actionable insight** and making data **impactful**!
 
 This course aims to familiarize you with various data science pipelines using examples with different data types.
-This course is suitable for students who already have some experience in processing data and will work (or are currently working) with a large amount of data, especially focusing on obtaining insights from data through prediction or explanation techniques.
+It is suitable for students who already have some experience in processing data and will work (or are currently working) with a large amount of data, especially focusing on obtaining insights from data through prediction or explanation techniques.
 This course is not intended to cover all topics in data science exhaustively.
 Instead, it introduces ways of working with structured (e.g., sensor measurements) and unstructured data (e.g., text and image).
-Also, this course will cover human-centered approaches in data science for social impact.
+Additionally, it also introduces topics on crowdsourcing and multi-modal learning.
 
 It is important to keep in mind about the following of this course:
 - We do not aim to teach you details in programming, machine learning, statistics, or visualization. Instead, we will teach you how to integrate various techniques (e.g., data wrangling, statistical analysis, data modeling, data visualization) together to perform a data science task.

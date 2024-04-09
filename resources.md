@@ -53,6 +53,7 @@ Below is a list of web books (in HTML form).
 - [The Turing Way handbook](https://the-turing-way.netlify.app/index.html)
 - [Pro Git](https://git-scm.com/doc)
 - [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
+- [Handbook of Biological Statistics](https://www.biostathandbook.com/)
 
 ## Machine Learning Courses
 

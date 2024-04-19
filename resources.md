@@ -17,6 +17,10 @@ nav_order: 2
 
 This page curates a list of resources that are used or referenced in this course. These resources also inspired the development of this course.
 
+This course shares similarities with the [ML4Design course in TU Delft](https://ml4design.com/), and thus you can use the
+[ML4Design lecture notes](https://surfdrive.surf.nl/files/index.php/s/RyBCGg8LJ1HgXFG) to self-study.
+The ML4Design course coordinator has agreed that I can use their notes as reference material in this course.
+
 ## PDF Books
 
 Below is a list of books (in PDF form).

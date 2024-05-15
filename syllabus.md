@@ -60,7 +60,7 @@ Week 8 only has the final exam (no lectures and no seminars).
 Refer to the [overview page](index#schedule) for the course schedule.
 
 {: .important }
-> Lectures (hoorcollege) will be given in English, as well as all the teaching materials (e.g., lecture slides, Jupyter notebooks) and assessment materials (e.g., exam questions, exam instructions, assignment content). Seminars (werkcollege) will given in either Dutch or English, depending on the TA’s choice.
+> Lectures (hoorcollege) will be given in English, as well as all the teaching materials (e.g., lecture slides, Jupyter notebooks) and assessment materials (e.g., exam questions, exam instructions, assignment content). Seminars (werkcollege) will be given in either Dutch or English, depending on the TA’s choice.
 
 Course materials contain slide decks, Jupyter notebooks, and three modules (structured data processing, text data processing, and image data processing).
 Each module contains three parts (preparation, tutorial, and assignment) for learning how to perform different data science tasks.

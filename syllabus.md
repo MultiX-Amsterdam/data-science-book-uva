@@ -68,19 +68,19 @@ Modules are designed to have you work to have hands-on experiences.
 
 ## Virtual/Physical Settings
 
-In principle, I will give the lecture in person in the physical classroom.
-I will open a virtual classroom link to livestream the lectures (refer to Canvas for the links).
-If I cannot give the physical lecture due to unexpected situations, I will make an announcement on Canvas to give the lecture in the virtual classroom.
+In principle, lectures are given in person in the physical classroom.
+The teaching team will open a virtual classroom link to live stream the lectures (refer to Canvas for the link).
+If we cannot give the physical lecture due to unexpected situations, we will make an announcement on Canvas to give the lecture only in the virtual classroom.
 
-It is important to notice that when I give the lecture in the physical classroom, the virtual classroom will be muted and not be actively monitored.
-It is very challenging for me to pay attention to both the physical and virtual audiences, and priority will be given to people who attend the physical classroom.
+It is important to notice that when we give the lecture in the physical classroom, the virtual classroom will be muted and not be actively monitored.
+It is very challenging for the course instructor to pay attention to both the physical and virtual audiences, and priority will be given to people who attend the physical classroom.
 
-I will also do my best to record the lectures (with the camera pointing to my face only) and make the recordings available on Canvas.
-However, there is no professional support for recording in my course, so there is no guarantee of the recording quality.
+We will also do our best to record the lectures (with the camera pointing to the course instructor’s face only) and make the recordings available on Canvas.
+However, there is no professional support for recording in the course, so there is no guarantee of the recording quality.
 For example, you may experience poor sound quality or incomplete lectures in the recorded video.
 
-In principle, the seminars (werkcollege) are in-person only.
-If the TAs cannot attend the physical classroom due to unexpected situations, they may give the sessions virtually.
+In principle, seminars are in-person only.
+If the TAs cannot attend the physical classroom due to unexpected situations, they may choose to give the seminars virtually.
 
 ## Grading
 
@@ -128,7 +128,7 @@ We are now in the era of generative AI tools (e.g., ChatGPT), and we believe tha
 Due to this, we no longer feel the need to check your assignments, as the answers (specifically related to coding) can be obtained from generative AI tools.
 Besides, your feedback and reflections can also greatly help us improve the teaching materials for future students.
 
-## Late Policy of Submissions
+## Submission and Late Policy
 
 We are very strict on late submissions and how you submit your work.
 This policy applies to all students in the course, including those who retake the course.
@@ -187,8 +187,8 @@ Below is a suggested plan:
 - Rewatch lecture recordings
 - Prepare your one A4-size page cheatsheet (double-sided) while studying
 
-Regarding math, as a general rule of thumb, if a math equation is on the slide, and I explained it in the lecture, it means that the equation may appear in the exam (in different ways).
-For example, the cosine similarity and softmax equations are in the slides (which I explained in the lecture), so they may appear in the exam (e.g., by asking you to compute them or why we need them).
+Regarding math, as a general rule of thumb, if a math equation is on the slide, and we explained it in the lecture, it means that the equation may appear in the exam (in different ways).
+For example, the cosine similarity and softmax equations are in the slides (which we explained in the lecture), so they may appear in the exam (e.g., by asking you to compute them or why we need them).
 Another example is that you need to understand how a decision tree works, including how to compute entropy and the misclassification error, as well as how they are used for splitting tree nodes.
 However, the likelihood function appears in the slides, but it is not explained in detail, so this means the exam will not ask detailed math questions regarding the likelihood function (but may still ask high-level questions, such as why we need it).
 
@@ -248,9 +248,6 @@ If you want to register for the course but you are late, or if you have problems
 
 ## Change Groups
 
-The course groups are automatically assigned.
-If you need to change groups, please refer to the instruction in the [course registration document](https://student.uva.nl/en/topics/course-registration) to submit a request using the GLASS system.
-
 The course study groups (the ones with letters for your seminars, such as “Group A”) are automatically assigned.
 Before the course starts, if you need to change the study groups (e.g., to move to a different seminar time), you need to follow the GLASS system's rules.
 Please refer to the instruction in the [course registration document](https://student.uva.nl/en/topics/course-registration) to submit a request using the GLASS system.
@@ -282,18 +279,18 @@ Class members are expected to treat others with mutual respect and appreciation 
 It is our intent that students from diverse backgrounds and perspectives be well served by the course.
 In this way, we can create a safe environment for discussions.
 
-The best ways to contact TAs and the teaching team outside the lectures and work sessions are via TicketVise (similar to the discussion board) on Canvas, the Inbox message on Canvas, or email.
+The best ways to contact TAs and the teaching team outside the lectures and seminars are via TicketVise (similar to the discussion board) on Canvas, the Inbox message on Canvas, or email.
 We prefer TicketVise as the questions can be allocated to the teaching team members based on their types.
 Also, other students may have the same question and thus can check TicketVise to get answers.
 Please keep in mind that responses from TAs and the teaching team could be delayed due to weekends or holidays.
 
 All course announcements will be on Canvas.
-I expect students to monitor Canvas periodically for any changes in deadlines, or any other announcements.
+We expect students to monitor Canvas periodically for any changes in deadlines, or any other announcements.
 
 {: .important-title }
 > Moving the Discussion at the Speed of Trust
 >
-> In group discussions, lectures, and all the sessions, please follow the principles below:
+> In group discussions, lectures, and seminars, please follow the principles below:
 > - Practice mutual respect
 > - Be an active listener
 > - Do not make assumptions, ask questions
@@ -302,10 +299,10 @@ I expect students to monitor Canvas periodically for any changes in deadlines, o
 
 ## Academic Code of Conduct
 
-- OK to discuss assignments with classmates
+- OK to discuss assignments or projects with classmates
 - OK to use existing solutions as part of your projects or assignments (but you need to clarify your contributions and cite the source properly)
 - OK to publish your project portfolio (e.g., source code) after the course is over
-- `NOT OK` to ask someone to do course assessments (e.g., assignments, projects) for you
+- `NOT OK` to ask someone to do assignments or projects for you
 - `NOT OK` to copy solutions or written content from classmates
 - `NOT OK` to pretend that someone's solution or idea is yours
 - `NOT OK` to post solutions for your assignment or course exams online
@@ -325,21 +322,21 @@ If you have a disability and require accommodations, please take a look at [this
 
 ## Policy for Using Generative AI Tools
 
-I allow and encourage my students to use generative AI tools (such as ChatGPT) in assignments or projects (not exams) to boost their productivity.
+We allow students to use generative AI tools (such as ChatGPT) in assignments or projects (not exams) to boost their productivity, such as creating code, wrangling data, copy-editing text, checking grammar errors, etc.
 However, it is important to know that generative AI tools come with risks that can also negatively impact your grade if you use them.
-For example, ChatGPT tends to give fake sources and citations.
-If we find fake sources or citations in your submissions, your score for the submission will likely be deducted.
+For example, large language models like ChatGPT tend to hallucinate arbitrary content, give misinformation, and provide fake sources/citations.
+You should perform fact-checking and carefully verify the generated content.
+If your work has misinformation or nonsense content, your grade for the work will likely be deducted.
 
 If you are not familiar with generative AI tools, we recommend checking the follow e-learning module:
 - [Responsible use of Generative Artificial Intelligence (GenAI) in education](https://rise.articulate.com/share/MyfLgG-cXE1a7XBuctQhndpJB-BgpYny#/)
 
-You do not need to report the usage of generative AI, as I see it as a tool that people will integrate naturally into their workflow.
+You do not need to report the usage of generative AI, as we see it as a tool that people will integrate naturally into their workflow.
 If you are interested in the motivation of allowing the use of generative AI in this course, please check the following paper:
 - [Van Dis, E. A., Bollen, J., Zuidema, W., van Rooij, R., & Bockting, C. L. (2023). ChatGPT: five priorities for research. Nature, 614(7947), 224-226.](https://www.nature.com/articles/d41586-023-00288-7)
 
-My opinion is largely aligned with the points in the above paper.
-I prefer embracing its benefits so that we can jointly understand how people are using it, and thus can provide us more opportunities and reflections about how this kind of tool should be used or regulated in the future.
-
+Our opinion is largely aligned with the views in this paper.
+We prefer embracing its benefits so that we can jointly understand how people use it, and thus can provide us opportunities and reflections about how this kind of tool should be used or regulated in the future.
 
 ## Resources
 
@@ -355,17 +352,20 @@ Below is a list of commonly asked questions and their answers.
 **Q2: What should I do if I have missed (or need to miss) an exam, such as due to medical issues or personal reasons?**
 - The best option is to take the resit, which is designed for these situations. The resit schedule is on [DataNose](https://datanose.nl).
 
-**Q3: I want to change the study group. What should I do?**
-- Read details in the [Change Group section](#change-groups) in this syllabus.
+**Q3: I want to change the seminar group. What should I do?**
+- Read the [Change Group section](#change-groups) in this syllabus.
 
 **Q4: I need help in course registration (e.g., I register the course late). What should I do?**
-- Read details in the [Course Registration section](#course-registration) in this syllabus.
+- Read the [Course Registration section](#course-registration) in this syllabus.
 
 **Q5: What is the cheatsheet for the exam and how should I prepare for that?**
-- Read details in the [Exams section](#exams) in this syllabus.
+- Read the [Exams section](#exams) in this syllabus.
 
 **Q6: What to do if I have conflicts with my exam schedule (e.g., two exams are at the same time)?**
 - Contact the program coordinator or [study adviser](https://student.uva.nl/en/topics/study-adviser) for solutions.
+
+**Q7: Can I reuse the partial grade from last year?**
+- Read the [Policy for Retaking This Course section](#policy-for-retaking-this-course) in this syllabus.
 
 ## Acknowledgements
 

@@ -316,6 +316,8 @@ You can learn more about (confidential) mental health services available on camp
 As documented in the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), for any personal circumstances that impact your studies (e.g., illness, disability, or family issues), contact your [study advisor](https://student.uva.nl/en/topics/study-adviser).
 Exceptions can only be made if the study advisor contacts the teaching team for special arrangements, and these exceptions sometimes may require approval from the examination committee.
 
+If you are a top-class athlete, please check [this UvA page](https://student.uva.nl/en/topics/help-for-top-class-athletes) for support.
+
 ## Accommodations for Students with Disabilities
 
 If you have a disability and require accommodations, please take a look at [this UvA link](https://student.uva.nl/en/topics/studying-with-a-disability-dyslexia-or-chronic-illness) to request special facilities or additional resources.

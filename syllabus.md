@@ -282,20 +282,30 @@ In this way, we can create a safe environment for discussions.
 The best ways to contact TAs and the teaching team outside the lectures and seminars are via TicketVise (similar to the discussion board) on Canvas, the Inbox message on Canvas, or email.
 We prefer TicketVise as the questions can be allocated to the teaching team members based on their types.
 Also, other students may have the same question and thus can check TicketVise to get answers.
+For questions that are sensitive or may have privacy issues, please contact the course coordinator by email.
 Please keep in mind that responses from TAs and the teaching team could be delayed due to weekends or holidays.
 
 All course announcements will be on Canvas.
 We expect students to monitor Canvas periodically for any changes in deadlines, or any other announcements.
 
+For all conversations in the course (e.g., group discussions, lectures, seminars), please follow the “Moving the Discussion at the Speed of Trust” guidelines below.
+
 {: .important-title }
 > Moving the Discussion at the Speed of Trust
->
-> In group discussions, lectures, and seminars, please follow the principles below:
-> - Practice mutual respect
 > - Be an active listener
+> - Go for honesty and depth - share what has personal meaning
+> - Be fully present, but step away if you need to
+> - Practice mutual respect
 > - Do not make assumptions, ask questions
 > - Suspend judgment
+> - Assume best intentions
 > - Invite and honor the diverse range of opinions and experiences
+> - Make space for all to share
+> - Respect the privacy of anything shared in your group
+> - Take care of yourself and others
+> - Notice your feelings of: comfort, discomfort, defensiveness, etc.
+> - Pause to reflect before reacting
+> - Expect and accept non-closure
 
 ## Academic Code of Conduct
 

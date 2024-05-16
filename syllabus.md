@@ -293,7 +293,7 @@ For all conversations in the course (e.g., group discussions, lectures, seminars
 {: .important-title }
 > Moving the Discussion at the Speed of Trust
 > - Be an active listener
-> - Go for honesty and depth - share what has personal meaning
+> - Go for honesty and depth - share what has personal meaning (with "I" statements)
 > - Be fully present, but step away if you need to
 > - Practice mutual respect
 > - Do not make assumptions, ask questions

@@ -27,6 +27,7 @@ Interact with the following website to check a live training demo using the MNIS
 
 ## Lecture
 
+Below are the slides:
 - [Slides for Lecture 9-1: Image Data Processing (Image Filtering)]({{ site.baseurl }}/slides/lec9-1.pdf)
 - [Slides for Lecture 9-2: Image Data Processing (Convolutional Neural Network)]({{ site.baseurl }}/slides/lec9-2.pdf)
 

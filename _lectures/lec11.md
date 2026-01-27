@@ -20,6 +20,7 @@ There is no preparation material for this lecture.
 
 ## Lecture
 
+Below are the slides:
 - [Slides for Lecture 11: Multimodal Data Processing]({{ site.baseurl }}/slides/lec11-1.pdf)
 
 ## Additional Resources

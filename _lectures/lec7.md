@@ -23,6 +23,7 @@ Watch the following videos to understand some math concepts that will be used in
 
 ## Lecture
 
+Below are the slides:
 - [Slides for Lecture 7: Text Data Processing]({{ site.baseurl }}/slides/lec7-1.pdf)
 
 ## Additional Resources

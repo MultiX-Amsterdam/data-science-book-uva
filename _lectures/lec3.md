@@ -19,6 +19,7 @@ Read the required course readings.
 
 ## Lecture
 
+Below are the slides:
 - [Slides for Lecture 3: Structured Data Processing (Decision Tree, Random Forest, and PCA)]({{ site.baseurl }}/slides/lec3-1.pdf)
 
 ## Required Course Readings

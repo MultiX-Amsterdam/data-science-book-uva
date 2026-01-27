@@ -19,6 +19,7 @@ Read the required course readings.
 
 ## Lecture
 
+Below are the slides:
 - [Slides for Lecture 5: Deep Learning Overview]({{ site.baseurl }}/slides/lec5-1.pdf)
 
 ## Required Course Readings

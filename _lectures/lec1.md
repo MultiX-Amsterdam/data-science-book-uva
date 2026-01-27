@@ -16,6 +16,7 @@ Read the [course syllabus]({{ site.baseurl }}/syllabus).
 
 ## Lecture
 
+Below are the slides:
 - [Slides for Lecture 1-1: Course Introduction and Organization]({{ site.baseurl }}/slides/lec1-1.pdf)
 - [Slides for Lecture 1-2: Social Impact of Data Science]({{ site.baseurl }}/slides/lec1-2.pdf)
 

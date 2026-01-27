@@ -19,8 +19,14 @@ Read the required course readings.
 
 ## Lecture
 
+Below are the slides:
 - [Slides for Lecture 2-1: Data Science Fundamentals (Preprocessing)]({{ site.baseurl }}/slides/lec2-1.pdf)
 - [Slides for Lecture 2-2: Data Science Fundamentals (Modeling)]({{ site.baseurl }}/slides/lec2-2.pdf)
+
+Below is the link to the online notebook:
+- [Python Coding Warm-Up Online Notebook](https://multix.io/python-warm-up/docs/python-warm-up.html)
+
+Follow the steps on the [notebook page](https://multix.io/python-warm-up/docs/python-warm-up.html) to set up the notebook.
 
 ## Required Course Readings
 

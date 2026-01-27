@@ -1,35 +1,81 @@
 ---
-title: Home
-layout: home
+title: Overview
+layout: default
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Course Overview (2026 Edition)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+(Last updated: Jan 22, 2026)
 
-More specifically, the created site:
+- Course Name: Data Science (2025/2026)
+- Program: Bachelor Informatiekunde (i.e., Information Science)
+- Institution: Informatics Institute, University of Amsterdam
+- Instructor: Yen-Chia Hsu \<y.c.hsu@uva.nl\>
+- Refer to the [course syllabus](syllabus) for details.
+- Refer to [DataNose](https://datanose.nl/) for the time table and classroom location.
+- Refer to [Canvas](https://canvas.uva.nl/) for announcements, links to live lectures, and teaching team members' emails.
+- Previous editions: [2025 version](https://multix.io/data-science-book-uva-2025/), [2024 version](https://multix.io/data-science-book-uva-2024/), [2023 version](https://multix.io/data-science-book-uva-2023/)
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+All the content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## <a name="schedule"></a>Schedule Outline
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+This section provides the outline of weekly activities. We strongly recommend you bring your laptop during the lectures for classroom activities.
 
-To get started with creating a site, simply:
+Below are the explanation of terms:
+- `tutorial`: step-by-step guidences of a Jupyter Notebook script
+- `practice`: a practice (ungraded) for self-study
+- `assignment`: an asssignment (graded)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+{: .important }
+> There is a preparation section for each lecture. You need to prepare them before going to the lectures or tutorials. If you come to the class without doing the preparation, you may not be able to understand the contents of lectures or tutorials well.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- Week 1
+  - [Lecture 1 (Feb 3 Tuesday)](lectures/lec1): Course introduction, as well as demonstrations of data science's social impact
+  - [Lecture 2 (Feb 4 Wednesday)](lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
+  - [Practice 1](https://multix.io/python-warm-up/): Python programming warm-up with Pandas and Numpy
+  - Seminar (Feb 5 Thursday): Work on Practice 1
+- Week 2
+  - [Lecture 3 (Feb 10 Tuesday)](lectures/lec3): Decision Tree and Random Forest for structured data processing
+  - [Lecture 4 (Feb 11 Wednesday)](lectures/lec4): Tutorial of the structured data processing module (using Jupyter Notebook)
+  - [Assignment 1](https://multix.io/structured-data-module/docs/assignment-structured-data.html): Structured data processing module
+    - Submit the [reflective writing (deadline Feb 17 Tuesday at 23:59)](syllabus#reflective-writing-of-assignments).
+  - Seminar (Feb 12 Thursday): Work on Assignment 1.
+- Week 3
+  - [Lecture 5 (Feb 17 Tuesday)](lectures/lec5): Overview of deep learning techniques and applications
+  - [Lecture 6 (Feb 18 Wednesday)](lectures/lec6): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
+  - [Practice 2](https://multix.io/structured-data-module/docs/pytorch-structured-data.html): PyTorch implementation of structured data processing
+  - Seminar (Feb 19 Thursday): Work on the [mock exams](others/mock-exam), Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
+- Week 4
+  - <span style="color:rgb(221,46,46)">**Mid-term exam (Feb 27 Friday)**</span>
 
-----
+{: .important }
+> The mid-term exam covers materials from Lecture 1, Lecture 2, Lecture 3, Lecture 4, Lecture 5, Lecture 6, Practice 1, Practice 2, and Assignment 1.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+- Week 5
+  - An online lecture to discuss the mid-term exam questions (Mar 2 Monday).
+  - Lecture 7 (Mar 3 Tuesday): Explain details in the pipeline of processing text data
+  - Lecture 8 (Mar 4 Wednesday): Tutorial for the text data processing module (using Jupyter Notebook)
+  - [Assignment 2](https://multix.io/text-data-module/docs/assignment-text-data.html): Text data processing module
+    - Submit the [reflective writing (deadline Mar 10 Tuesday at 23:59)](syllabus#reflective-writing-of-assignments).
+  - Seminar (Mar 5 Thursday): Work on Assignment 2.
+- Week 6
+  - Lecture 9 (Mar 10 Tuesday): Explain details in the pipeline of processing image data
+  - Lecture 10 (Mar 11 Wednesday): Tutorial for the image data processing module (using Jupyter Notebook)
+  - [Assignment 3](https://multix.io/image-data-module/docs/assignment-image-data.html): Image data processing module
+    - Submit the [reflective writing (deadline Mar 17 Tuesday at 23:59)](syllabus#reflective-writing-of-assignments).
+  - Seminar (Mar 12 Thursday): Work on Assignment 3.
+- Week 7
+  - Lecture 11 (Mar 17 Tuesday): Introduction of multimodal data processing
+  - Lecture 12 (Mar 18 Wednesday): Guest lecture (the first hour) and review of final exam materials (the second hour). Note that the guest lecture will NOT be recorded.
+  - Seminar (Mar 19 Thursday): Work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
+- Week 8
+  - <span style="color:rgb(221,46,46)">**Final exam (Mar 24 Tuesday)**</span>
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+{: .important }
+> The final exam and the resit covers materials from Lecture 1, Lecture 2, Lecture 3, Lecture 4, Lecture 5, Lecture 6, Lecture 7, Lecture 8, Lecture 9, Lecture 10, Lecture 11, Practice 1, Practice 2, Assignment 1, Assignment 2, and Assignment 3. Notice that Lecture 12 is not covered in the final exam or resit.
+
+- After this course
+  - Q&A hour for the resit (May 20 Wednesday)
+  - <span style="color:rgb(221,46,46)">**Resit (May 27 Wednesday)**</span>

@@ -1,0 +1,23 @@
+p.note, blockquote.note {
+  background-color: rgba(114, 83, 237, 0.1);
+}
+
+p.warning, blockquote.warning {
+  background-color: rgba(247, 126, 126, 0.1);
+}
+
+p.important, blockquote.important {
+  background-color: rgba(44, 132, 250, 0.1);
+}
+
+p.important-title, blockquote.important-title {
+  background-color: rgba(44, 132, 250, 0.1);
+}
+
+p.highlight, blockquote.highlight {
+  background-color: rgba(255, 235, 130, 0.1);
+}
+
+p.new, blockquote.new {
+  background-color: rgba(65, 214, 147, 0.1);
+}

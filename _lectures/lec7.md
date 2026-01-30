@@ -16,17 +16,25 @@ This lecture introduces the theory for text data processing, including preproces
 
 ## Preparation
 
-Watch the following videos to understand some math concepts that will be used in this lecture:
-- [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs)
-- [Dot Product](https://www.youtube.com/watch?v=C0sPtQ3wX9o)
-- [Cosine Similarity](https://www.youtube.com/watch?v=e9U0QAFbfLI)
+Read the required course readings.
 
 ## Lecture
 
 Below are the slides:
 - [Slides for Lecture 7: Text Data Processing]({{ site.baseurl }}/slides/lec7-1.pdf)
 
+## Required Course Readings
+
+## Optional Course Readings
+
+- Section 5.5 (Maximum Likelihood Estimation) in book [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al., 2016).
+
 ## Additional Resources
+
+The following videos explain some math concepts that are used in the lecture.
+- [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs)
+- [Dot Product](https://www.youtube.com/watch?v=C0sPtQ3wX9o)
+- [Cosine Similarity](https://www.youtube.com/watch?v=e9U0QAFbfLI)
 
 A video that explains the attention mechanism:
 - [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)

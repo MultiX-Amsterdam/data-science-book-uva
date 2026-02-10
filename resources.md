@@ -45,6 +45,8 @@ Below is a list of books (in PDF form).
 - [A Course in Machine Learning](http://ciml.info) and the [PDF file downloading link](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) and the [PDF file downloading link](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) and the [PDF file downloading link](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes) and the [PDF file downloading link](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) and the [PDF file downloading link](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan26.pdf)
 
 ## Web Books
 

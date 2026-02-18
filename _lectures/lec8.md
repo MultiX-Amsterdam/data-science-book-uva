@@ -2,12 +2,11 @@
 title: "L8: Text Data II"
 layout: default
 nav_order: 8
-nav_exclude: true
 ---
 
 # Lecture 8: Text Data Processing (Part II)
 
-(Last updated: Jan 30, 2025)
+(Last updated: Feb 18, 2026)
 
 This lecture gives a tutorial about text data processing using a Jupyter Notebook. The learning goals can be found on [this link](https://multix.io/text-data-module/).
 

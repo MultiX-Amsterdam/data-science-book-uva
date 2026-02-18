@@ -13,7 +13,7 @@ nav_order: 2
 - TOC
 {:toc}
 
-(Last updated: Jan 22, 2026)
+(Last updated: Feb 18, 2026)
 
 This page curates a list of resources that are used or referenced in this course. These resources also inspired the development of this course.
 

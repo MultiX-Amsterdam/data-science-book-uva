@@ -2,12 +2,11 @@
 title: "L7: Text Data I"
 layout: default
 nav_order: 7
-nav_exclude: true
 ---
 
 # Lecture 7: Text Data Processing (Part I)
 
-(Last updated: Jan 30, 2025)
+(Last updated: Feb 18, 2026)
 
 This lecture introduces the theory for text data processing, including preprocessing (tokenization, lemmatization, pos-tagging), word embeddings, topic modeling, sequence-to-sequence modeling, and the attention mechanism.
 
@@ -25,9 +24,14 @@ Below are the slides:
 
 ## Required Course Readings
 
+- Section 4.4.2.1 (Tokenisation), 4.4.2.2 (Stop-word Removal), 4.4.2.3 (Lemmatisation), 4.4.2.4 (Stemming), 4.4.3.1 (Part-of-speech Tagging) in the [ML4Design lecture notes](https://surfdrive.surf.nl/files/index.php/s/RyBCGg8LJ1HgXFG) (Bozzon, 2023)
+- Section 5.1 (Lexical Semantics), 5.2 (Vector Semantics: The Intuition), 5.3 (Simple count-based embeddings), 5.4 (Cosine for measuring similarity), 5.5 (Word2vec), 11.1.1 (Representing documents as vectors), and 11.1.2 (Term weighting: tf-idf and BM25) in book [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan26.pdf) (Jurafsky & Martin, 2026)
+
 ## Optional Course Readings
 
 - Section 5.5 (Maximum Likelihood Estimation) in book [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al., 2016).
+- Blei, D. M. (2012). [Probabilistic topic models](https://dl.acm.org/doi/pdf/10.1145/2133806.2133826). Communications of the ACM.
+- Section 8.1 (Attention) in book [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan26.pdf) (Jurafsky & Martin, 2026)
 
 ## Additional Resources
 

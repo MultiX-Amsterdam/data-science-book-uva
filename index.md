@@ -68,7 +68,7 @@ Below are the explanation of terms:
   - Seminar (Mar 12 Thursday): Work on Assignment 3.
 - Week 7
   - Lecture 11 (Mar 17 Tuesday): Introduction of multimodal data processing
-  - Lecture 12 (Mar 18 Wednesday): Guest lecture (the first hour) and review of final exam materials (the second hour). Note that the guest lecture will NOT be recorded.
+  - Lecture 12 (Mar 18 Wednesday): Guest lecture by TU Delft Assistant Professor [Himanshu Verma](https://vermahimanshu.com/) (the first hour) and review of final exam materials (the second hour). Note that the guest lecture will NOT be recorded.
   - Seminar (Mar 19 Thursday): Work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
 - Week 8
   - <span style="color:rgb(221,46,46)">**Final exam (Mar 24 Tuesday)**</span>

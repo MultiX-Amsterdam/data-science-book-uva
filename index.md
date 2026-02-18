@@ -55,8 +55,8 @@ Below are the explanation of terms:
 
 - Week 5
   - An online lecture to discuss the mid-term exam questions (Mar 2 Monday).
-  - Lecture 7 (Mar 3 Tuesday): Explain details in the pipeline of processing text data
-  - Lecture 8 (Mar 4 Wednesday): Tutorial for the text data processing module (using Jupyter Notebook)
+  - [Lecture 7 (Mar 3 Tuesday)](lectures/lec7): Explain details in the pipeline of processing text data
+  - [Lecture 8 (Mar 4 Wednesday)](lectures/lec8): Tutorial for the text data processing module (using Jupyter Notebook)
   - [Assignment 2](https://multix.io/text-data-module/docs/assignment-text-data.html): Text data processing module
     - Submit the [reflective writing (deadline Mar 10 Tuesday at 23:59)](syllabus#reflective-writing-of-assignments).
   - Seminar (Mar 5 Thursday): Work on Assignment 2.

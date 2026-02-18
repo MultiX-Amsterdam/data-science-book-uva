@@ -32,6 +32,7 @@ Below are the slides:
 - Section 5.5 (Maximum Likelihood Estimation) in book [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al., 2016).
 - Blei, D. M. (2012). [Probabilistic topic models](https://dl.acm.org/doi/pdf/10.1145/2133806.2133826). Communications of the ACM.
 - Section 8.1 (Attention) in book [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan26.pdf) (Jurafsky & Martin, 2026)
+- Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). [Efficient estimation of word representations in vector space](https://arxiv.org/pdf/1301.3781.pdf). arXiv preprint arXiv:1301.3781.
 
 ## Additional Resources
 
@@ -42,15 +43,3 @@ The following videos explain some math concepts that are used in the lecture.
 
 A video that explains the attention mechanism:
 - [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)
-
-The following paper explains Topic Modeling and the intuitions:
-- [Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77-84.](https://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
-
-The following paper explains how to train word embeddings using Word2Vec:
-- [Mikolov, T., et al. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.](https://arxiv.org/pdf/1301.3781.pdf)
-
-The following paper explains how to use the attention mechanism for document classification:
-- [Yang, Z., Yang, D., Dyer, C., He, X., Smola, A., & Hovy, E. (2016, June). Hierarchical attention networks for document classification. In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: human language technologies (pp. 1480-1489).](https://aclanthology.org/N16-1174/)
-
-The Hugging Face website below documents a list of state-of-the-art Transformer-based models:
-- [Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX](https://huggingface.co/transformers/v4.7.0/)

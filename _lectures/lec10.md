@@ -2,12 +2,11 @@
 title: "L10: Image Data II"
 layout: default
 nav_order: 10
-nav_exclude: true
 ---
 
 # Lecture 10: Image Data Processing (Part II)
 
-(Last updated: Feb 3, 2025)
+(Last updated: Feb 24, 2026)
 
 This lecture gives a tutorial about image data processing using a Jupyter Notebook. The learning goals can be found on [this link](https://multix.io/image-data-module/).
 

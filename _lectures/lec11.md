@@ -2,7 +2,6 @@
 title: "L11: Multimodal Data"
 layout: default
 nav_order: 11
-nav_exclude: true
 ---
 
 # Lecture 11: Multimodal Data Processing
@@ -16,14 +15,18 @@ This lecture introduces the overall picture of machine learning tasks with multi
 
 ## Preparation
 
-There is no preparation material for this lecture.
+Read the required course readings.
 
 ## Lecture
 
 Below are the slides:
 - [Slides for Lecture 11: Multimodal Data Processing]({{ site.baseurl }}/slides/lec11-1.pdf)
 
-## Additional Resources
+## Required Course Readings
 
-The following paper gives a very nice overview of the foundations and challenges of multimodal learning.
-- [Liang, P. P., Zadeh, A., & Morency, L. P. (2022). Foundations and Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions. arXiv preprint arXiv:2209.03430.](https://arxiv.org/abs/2209.03430)
+- Section 5.5.2 (Recurrent neural networks) and 5.5.3 (Transformers) in book [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/download.php) (Szeliski, 2022).
+
+## Optional Course Readings
+
+- [Liang, P. P., Zadeh, A., & Morency, L. P. (2024). Foundations & trends in multimodal machine learning: Principles, challenges, and open questions. ACM computing surveys.](https://arxiv.org/abs/2209.03430)
+- [Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021, July). Learning transferable visual models from natural language supervision. In International conference on machine learning.](https://arxiv.org/abs/2103.00020)

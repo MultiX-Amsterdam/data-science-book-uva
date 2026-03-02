@@ -47,6 +47,7 @@ Below is a list of books (in PDF form).
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) and the [PDF file downloading link](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes) and the [PDF file downloading link](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) and the [PDF file downloading link](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan26.pdf)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/) and the [PDF file downloading link](https://github.com/udlbook/udlbook/releases/download/v5.0.3/UnderstandingDeepLearning_02_09_26_C.pdf)
 
 ## Web Books
 

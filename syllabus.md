@@ -31,13 +31,13 @@ It is important to keep in mind about the following of this course:
 ## Learning Goals
 
 By the end of the course, we expect you to be able to:
-- Explain important components in the entire data science pipeline
-- Explain common data science modeling techniques and evaluation metrics
+- Identify and describe important components in the entire data science pipeline
+- Compare common data science modeling techniques and evaluation metrics
 - Use the Python Pandas and Numpy libraries to preprocess structured data
 - Implement deep learning modeling techniques using the Python PyTorch library
 - Perform given data science tasks and experiments with images, text, and structured data using Python
-- Reflect critically on the model performance using experiments with different settings and metrics
-- Obtain meaningful insights from data analysis for the given data science tasks
+- Evaluate and justify model performance using experiments with different settings and metrics
+- Interpret data analysis results for the given data science tasks to obtain meaningful insights
 
 ## Prerequisites
 

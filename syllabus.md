@@ -81,7 +81,7 @@ The base grade for each exam is 1. The base grade only applies when you attend t
 
 According to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), <span style="color:rgb(221,46,46)">you need to get at least 5.5 in **BOTH** the practical and theory parts to pass the course</span>. This means:
 - **Theory** part: the weighted sum of the scores of the mid-term and final exams must be at least 5.5
-- **Practical** part: the weighted sum of all reflective writing submissions for the assignments must be at least 5.5
+- **Practical** part: the weighted sum of the scores of all reflective writing submissions for the assignments must be at least 5.5
 
 There is no minimum grade requirement for each individual assignment or each individual partial exam. For example, if you get less than 5.5 for the mid-term exam, you still have a chance to pass the course if you get a high grade for the final exam. If you get less than 5.5 for one reflective writing submission, you still have a chance to pass the course if you get a high grade for other reflective writing submissions.
 

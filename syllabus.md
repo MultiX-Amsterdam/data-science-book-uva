@@ -79,7 +79,11 @@ There is one resit for the course, which counts as 90% weight. There is no oppor
 
 The base grade for each exam is 1. The base grade only applies when you attend the exam. If you miss the exam, the grade will be 0 for that exam.
 
-According to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), you need to get at least 5.5 in the final grade (i.e., the weighted sum of the scores of all exams and assignments) to pass the course. There is no minimum grade requirement for the assignments (or weighted sum of assignments) or each exam (or weighted sum of exams) to pass the course. In other words, if you get less than 5.5 for the exams, you still have a chance to pass the course if you have a high grade for the assignments. Or, if you get a low grade for the mid-term exam, there is still a chance to pass the course if you have high grades for the assignments and the final exam.
+According to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), <span style="color:rgb(221,46,46)">you need to get at least 5.5 in **BOTH** the practical and theory parts to pass the course</span>. This means:
+- **Theory** part: the weighted sum of the scores of the mid-term and final exams must be at least 5.5
+- **Practical** part: the weighted sum of all reflective writing submissions for the assignments must be at least 5.5
+
+There is no minimum grade requirement for each individual assignment or each individual partial exam. For example, if you get less than 5.5 for the mid-term exam, you still have a chance to pass the course if you get a high grade for the final exam. If you get less than 5.5 for one reflective writing submission, you still have a chance to pass the course if you get a high grade for other reflective writing submissions.
 
 After each exam, the teaching team will grade the exam and release the grades as soon as possible. After the grade is released, we will announce on Canvas how students can inspect their exam results.
 

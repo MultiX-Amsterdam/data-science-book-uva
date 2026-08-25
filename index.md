@@ -40,13 +40,13 @@ Below are the explanation of terms:
   - [Lecture 3](lectures/lec3): Decision Tree and Random Forest for structured data processing
   - [Lecture 4](lectures/lec4): Tutorial of the structured data processing module (using Jupyter Notebook)
   - [Assignment 1](https://multix.io/structured-data-module/docs/assignment-structured-data.html): Structured data processing module
-  - Seminar 2: Work on Assignment 1.
+  - Seminar 1: Work on Assignment 1.
 - Week 3
   - [Lecture 5](lectures/lec5): Overview of deep learning techniques and applications
   - [Lecture 6](lectures/lec6): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
   - [Practice 2](https://multix.io/structured-data-module/docs/pytorch-structured-data.html): PyTorch implementation of structured data processing
   - <span style="color:rgb(221,46,46)">**Submit**</span> the [reflective writing](syllabus#reflective-writing-of-assignments) for Assignment 1 (<span style="color:rgb(221,46,46)">**Deadline Sep 15 Tuesday at 23:59**</span>).
-  - Seminar 3: Work on the [mock exams](others/mock-exam), Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
+  - Seminar 2: Work on the [mock exams](others/mock-exam), Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
 - Week 4
   - <span style="color:rgb(221,46,46)">**Mid-term exam**</span>
   - An online lecture to discuss the mid-term exam questions.
@@ -58,17 +58,17 @@ Below are the explanation of terms:
   - [Lecture 7](lectures/lec7): Explain details in the pipeline of processing text data
   - [Lecture 8](lectures/lec8): Tutorial for the text data processing module (using Jupyter Notebook)
   - [Assignment 2](https://multix.io/text-data-module/docs/assignment-text-data.html): Text data processing module
-  - Seminar 4: Work on Assignment 2.
+  - Seminar 3: Work on Assignment 2.
 - Week 6
   - [Lecture 9 (Mar 10 Tuesday)](lectures/lec9): Explain details in the pipeline of processing image data
   - [Lecture 10 (Mar 11 Wednesday)](lectures/lec10): Tutorial for the image data processing module (using Jupyter Notebook)
   - [Assignment 3](https://multix.io/image-data-module/docs/assignment-image-data.html): Image data processing module
   - <span style="color:rgb(221,46,46)">**Submit**</span> the [reflective writing](syllabus#reflective-writing-of-assignments) for Assignment 2 (<span style="color:rgb(221,46,46)">**Deadline Oct 6 Tuesday at 23:59**</span>).
-  - Seminar 5: Work on Assignment 3.
+  - Seminar 4: Work on Assignment 3.
 - Week 7
   - [Lecture 11](lectures/lec11): Introduction of multimodal data processing
   - Lecture 12: Guest lecture (the first hour) and review of final exam materials (the second hour). Note that the guest lecture will NOT be recorded.
-  - Seminar 6: Work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
+  - Seminar 5: Work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
   - <span style="color:rgb(221,46,46)">**Submit**</span> the [reflective writing](syllabus#reflective-writing-of-assignments) for Assignment 3 (<span style="color:rgb(221,46,46)">**Deadline Oct 13 Tuesday at 23:59**</span>).
 - Week 8
   - <span style="color:rgb(221,46,46)">**Final exam**</span>

@@ -47,7 +47,7 @@ This course expects you to have the following prior knowledge:
 
 ## Course Structure
 
-This course has 8 weeks in total. Weeks 4 and 8 will be used for mid-term and final exams. Except for weeks 4 and 8, each week has two lectures (hoorcollege) and a seminar (werkcollege). In the lectures, students learn the theory concepts (using slides) and how to apply the concepts (using Jupyter Notebooks). In the seminars, TAs give recitations of course topics and provide opportunities for students to ask questions. Refer to the [overview page](index#schedule) for the course schedule.
+This course has 8 weeks in total. Weeks 4 and 8 will be used for mid-term and final exams. We use lectures (hoorcollege) and seminars (werkcollege) for teaching. In the lectures, students learn the theory concepts (using slides) and how to apply the concepts (using Jupyter Notebooks). In the seminars, TAs give recitations of course topics and provide opportunities for students to ask questions. Besides, you also need to self-study the course materials (including slides, course readings, practices, and assignments). Refer to the [overview page](index#schedule) for the course schedule.
 
 {: .important }
 > Lectures (hoorcollege) will be given in English, as well as all the teaching materials (e.g., lecture slides, Jupyter notebooks) and assessment materials (e.g., exam questions, exam instructions, assignment content). Seminars (werkcollege) will be given in either Dutch or English, depending on the TA's choice.

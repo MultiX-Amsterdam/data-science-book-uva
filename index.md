@@ -6,9 +6,9 @@ nav_order: 0
 
 # Course Overview (2026 Edition)
 
-(Last updated: Jan 22, 2026)
+(Last updated: Aug 25, 2026)
 
-- Course Name: Data Science (2025/2026)
+- Course Name: Data Science (2026/2027)
 - Program: Bachelor Informatiekunde (i.e., Information Science)
 - Institution: Informatics Institute, University of Amsterdam
 - Instructor: Yen-Chia Hsu \<y.c.hsu@uva.nl\>
@@ -35,7 +35,7 @@ Below are the explanation of terms:
   - [Lecture 1](lectures/lec1): Course introduction, as well as demonstrations of data science's social impact
   - [Lecture 2](lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
   - [Practice 1](https://multix.io/python-warm-up/): Python programming warm-up with Pandas and Numpy
-  - Seminar 1: Work on Practice 1
+  - There is no seminar for this week. But you should work on Practice 1.
 - Week 2
   - [Lecture 3](lectures/lec3): Decision Tree and Random Forest for structured data processing
   - [Lecture 4](lectures/lec4): Tutorial of the structured data processing module (using Jupyter Notebook)

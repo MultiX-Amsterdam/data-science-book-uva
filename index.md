@@ -49,7 +49,7 @@ Below are the explanation of terms:
   - Seminar 2: Work on the [mock exams](others/mock-exam), Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
 - Week 4
   - <span style="color:rgb(221,46,46)">**Mid-term exam**</span>
-  - An online lecture to discuss the mid-term exam questions.
+  - A lecture to discuss the mid-term exam questions.
 
 {: .important }
 > The mid-term exam covers materials from Lecture 1, Lecture 2, Lecture 3, Lecture 4, Lecture 5, Lecture 6, Practice 1, Practice 2, and Assignment 1.

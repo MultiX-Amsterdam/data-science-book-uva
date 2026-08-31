@@ -6,7 +6,7 @@ nav_order: 0
 
 # Course Overview (2026 Edition)
 
-(Last updated: Aug 25, 2026)
+(Last updated: Aug 31, 2026)
 
 - Course Name: Data Science (2026/2027)
 - Program: Bachelor Informatiekunde (i.e., Information Science)

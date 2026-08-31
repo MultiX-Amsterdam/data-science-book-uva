@@ -13,7 +13,7 @@ nav_order: 1
 - TOC
 {:toc}
 
-(Last updated: Jan 22, 2026)
+(Last updated: Aug 31, 2026)
 
 {: .highlight }
 > Data science is about turning rich data into **actionable insight** and making data **impactful**!
@@ -185,7 +185,7 @@ For the final exam specifically, we aim to focus more on the newly introduced ma
 
 ## Policy for Retaking This Course
 
-For students who followed the course last year, the structure of the course remains the same. You can carry over the scores for reflective writing submissions, mid-term exam, or final exam to this year.
+For students who followed the course last year, the structure of the course remains the same. You can carry over the scores for reflective writing submissions or exams to this year. However, for this year, we have changed the distribution of the weights for mid and final exams (from 40-50 to 45-45), so you will not be able to carry over the grades of individual partial exams to this year. You can only carry over the grades for BOTH partial exams (i.e., both mid and final) together.
 
 ## Hygiene
 

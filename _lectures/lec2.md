@@ -42,6 +42,18 @@ Follow the steps on the [notebook page](https://multix.io/python-warm-up/docs/py
 - Section 5.3 (Hyperparameters and Validation Sets, including 5.3.1) in book [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al., 2016).
 - Section 4.5.1 (Rosenblatt's Perceptron Learning Algorithm) in book [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf.download.html) (Hastie et al., 2009)
 
+## Exercises
+
+See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+
+- If we give you two numpy arrays: one is the prediction of a model (either regression or classification), and one is the ground truth, how to compute the evaluation metrics (either F-score or R-squared) by writing Python code?
+- Explain the intuition of precision, recall, and f-score. What does a high-precision and a low-recall model mean? Conversely, what does a low-precision and a high-recall model mean?
+- Explain the intuition of the R-squared metric. What does it mean geometrically if we plot the regression line on a 2D plot, where the x-axis is the feature, and the y-axis is the prediction or ground truth? What does it mean when having a bad R-squared value? Can we always use R-squared to determine if there is a pattern in the data, and why?
+- Describe how to construct a linear classifier. How to represent the linear classifier using math equations? Give an example of the metric for determining whether the linear classifier work well or not. What is the function that you need to optimize (in mathematical form)? Do the same exercise for the linear regression model.
+- Describe the procedure of computing permutation feature importance. What to do if we have high-correlated features? Why do we need to run the permutation and compute the importance for multiple times for one feature?
+- Explain why do we need to map raw data into data points in a high-dimensional space? What do the axes in the high-dimensional space mean?
+- What are the typical assumptions for linear regression?
+
 ## Additional Resources
 
 Below are website for data visualization inspirations:

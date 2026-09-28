@@ -30,3 +30,10 @@ Below are the slides:
 
 - [Liang, P. P., Zadeh, A., & Morency, L. P. (2024). Foundations & trends in multimodal machine learning: Principles, challenges, and open questions. ACM computing surveys.](https://arxiv.org/abs/2209.03430)
 - [Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021, July). Learning transferable visual models from natural language supervision. In International conference on machine learning.](https://arxiv.org/abs/2103.00020)
+
+## Exercises
+
+See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+
+- Describe the role of positional encoding in the Transformer architecture. Why do we need it? How does it work exactly (e.g., which functions to use to compute the position, and how to do that)?
+- Describe the intuition about how contrastive learning works when training a joint text-image representation using a large number of image-text pairs.

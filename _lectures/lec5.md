@@ -33,6 +33,13 @@ Below are the slides:
 - Section 6.2 (Shrinkage Methods, including 6.2.1, 6.2.2, and 6.2.3) in book [An Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) (James et al., 2013)
 - Section 7.4 (Dataset Augmentation) in book [Deep Learning](https://www.deeplearningbook.org/) (Goodfellow et al., 2016).
 
+## Exercises
+
+See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+
+- Explain the difference between linear regression and logistic regression. What are they used for? How to think about them from the artificial neuron perspective? What activation functions do they use? What loss functions do they use? Why not just using linear regression to predict the probabilities for the binary classification task?
+- What activation functions to choose if the data points are linearly separable in a high-dimensional feature space? If the data points are not linearly separable, what are the activation functions to use?
+
 ## Additional Resources
 
 Below is a well-known paper that gives a nice overview of deep learning:

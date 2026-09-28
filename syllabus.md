@@ -155,6 +155,7 @@ Please refer to the [schedule outline](index#schedule-outline) for the mid-term 
 - Rewatch lecture recordings
 - Prepare your one A4-size page cheatsheet (double-sided) while studying
 - Do the mock exams
+- Do the exercises for the theory lectures (in the "Exercises" section of the web page of these lectures)
 
 {: .note }
 > Note that this course has many readings (e.g., those in the "Required Course Readings" and "Optional Course Readings" parts). The exams will be based on the lecture slides (primarily) and the required course readings (secondly). If a concept appears on the lecture slides, it may appear on the exam, and the course readings are used to support the concept with more explanations and details. If a concept appears in the course readings but not on the slides, it will not appear on the exam. The optional course readings are used as additional resources for fact-checking if you use GenAI.

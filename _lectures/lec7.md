@@ -38,8 +38,8 @@ Below are the slides:
 
 See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
 
-- If we ask you to calculate the cosine similarity by writing python code, how to do that? You can use the cosine similarity exercise in the lecture slide as an example. If the vector is in a higher dimensional space (e.g., 3D or 4D), how to do the calculation using code?
-- If we ask you to calculate the softmax of an array with arbitrary length by writing python code, how to do that?
+- If we ask you to calculate the cosine similarity by writing python code, how to do that? You can use the cosine similarity exercise in the lecture slide as an example. If the vector is in a 3D or 4D space, how to do the calculation using code?
+- If we ask you to calculate the softmax of an array with arbitrary length by writing python code (using numpy specifically), how to do that?
 - Explain the role of the Likelihood function in training a Word2Vec model. Your explanation should clearly cover: (a) what "likelihood" means conceptually in this context, (b) how maximizing likelihood connects to predicting context words from center words, and (c) the mathematical components of the Likelihood function (and what does the mathematical components mean).
 - Describe what a topic vector means conceptually. What do the numbers in a topic vector mean?
 - If we give you a joint probability table, how to calculate the conditional probability?

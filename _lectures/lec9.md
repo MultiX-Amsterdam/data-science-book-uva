@@ -33,7 +33,7 @@ Below are the slides:
 
 ## Exercises
 
-See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+See [the instruction in the syllabus]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
 
 - Describe the reason why we need the residual block? How is it implemented? What problem does the block solve? What are the intuitions behind using it?
 - Describe the reason of using leaky ReLU activation function. What problem does it solve? How is it implemented?

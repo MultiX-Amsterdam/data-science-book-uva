@@ -34,7 +34,7 @@ Below are the slides:
 
 ## Exercises
 
-See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+See [the instruction in the syllabus]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
 
 - Explain the procedure for training a decision tree. How does the training data look like? How to pick the feature to split a node? Which metric to use for node splitting? After splitting a node, what to do for splitting other nodes (using what kind of logic in programming)? What is the tree doing when we think about how the model cuts a high-dimensional space (with data points) into which kind of structure? How to prevent the tree from overfitting? What to do when we have features with continuous values?
 - What is a good strategy to do hyper-parameter tuning? How should you split the dataset? Which part of the dataset split should be used for hyper-parameter tuning?

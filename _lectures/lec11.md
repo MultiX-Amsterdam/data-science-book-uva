@@ -33,7 +33,7 @@ Below are the slides:
 
 ## Exercises
 
-See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+See [the instruction in the syllabus]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
 
 - Describe the role of positional encoding in the Transformer architecture. Why do we need it? How does it work exactly (e.g., which functions to use to compute the position, and how to do that)?
 - Describe the intuition about how contrastive learning works when training a joint text-image representation using a large number of image-text pairs.

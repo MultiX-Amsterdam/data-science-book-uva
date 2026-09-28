@@ -35,7 +35,7 @@ Below are the slides:
 
 ## Exercises
 
-See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+See [the instruction in the syllabus]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
 
 - Explain the difference between linear regression and logistic regression. What are they used for? How to think about them from the artificial neuron perspective? What activation functions do they use? What loss functions do they use? Why not just using linear regression to predict the probabilities for the binary classification task?
 - What activation functions to choose if the data points are linearly separable in a high-dimensional feature space? If the data points are not linearly separable, what are the activation functions to use?

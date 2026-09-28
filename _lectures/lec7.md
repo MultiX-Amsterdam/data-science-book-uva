@@ -36,7 +36,7 @@ Below are the slides:
 
 ## Exercises
 
-See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+See [the instruction in the syllabus]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
 
 - If we ask you to calculate the cosine similarity by writing python code, how to do that? You can use the cosine similarity exercise in the lecture slide as an example. If the vector is in a 3D or 4D space, how to do the calculation using code?
 - If we ask you to calculate the softmax of an array with arbitrary length by writing python code (using numpy specifically), how to do that?

@@ -44,7 +44,7 @@ Follow the steps on the [notebook page](https://multix.io/python-warm-up/docs/py
 
 ## Exercises
 
-See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
+See [the instruction in the syllabus]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
 
 - If we give you two numpy arrays: one is the prediction of a model (either regression or classification), and one is the ground truth, how to compute the evaluation metrics (either F-score or R-squared) by writing Python code?
 - Explain the intuition of precision, recall, and f-score. What does a high-precision and a low-recall model mean? Conversely, what does a low-precision and a high-recall model mean?

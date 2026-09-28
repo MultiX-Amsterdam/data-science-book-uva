@@ -124,6 +124,8 @@ For special requests (e.g., deadline extensions) due to personal circumstances t
 
 Exams are onsite and will be conducted using the [ANS system](https://ans.app/). You will have access to the Jupyter Notebook software for computation during the exam. You can use the question mark "?" syntax to [access the IPython help](https://ipython.readthedocs.io/en/stable/interactive/python-ipython-diff.html#accessing-help) to check the documentation of functions.
 
+The Jupyter Notebook on the exam computers have numpy, scipy, and pandas installed.
+
 {: .warning }
 > It is not allowed to do exams at home or remotely at other locations. You will have no internet access during the exams.
 

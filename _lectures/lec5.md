@@ -6,7 +6,7 @@ nav_order: 5
 
 # Lecture 5: Deep Learning Overview
 
-(Last updated: Jan 27, 2026)
+(Last updated: Sep 27, 2026)
 
 This course introduces deep learning techniques, such as deep neural networks, loss functions, and gradient descent.
 

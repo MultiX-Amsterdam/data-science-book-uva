@@ -6,7 +6,7 @@ nav_order: 9
 
 # Lecture 9: Image Data Processing (Part I)
 
-(Last updated: Feb 24, 2026)
+(Last updated: Sep 27, 2026)
 
 This lecture introduces the theory for image data processing, including the convolution operation, image filtering, and convolutional neural network.
 

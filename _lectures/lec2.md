@@ -6,7 +6,7 @@ nav_order: 2
 
 # Lecture 2: Data Science Fundamentals
 
-(Last updated: Jan 27, 2026)
+(Last updated: Sep 27, 2026)
 
 This lecture recaps the fundamentals of data science, such as table operations, classification, and regression.
 

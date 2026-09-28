@@ -6,7 +6,7 @@ nav_order: 11
 
 # Lecture 11: Multimodal Data Processing
 
-(Last updated: Feb 3, 2025)
+(Last updated: Sep 27, 2026)
 
 This lecture introduces the overall picture of machine learning tasks with multimodal data.
 

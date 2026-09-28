@@ -37,8 +37,11 @@ See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to u
 
 - Describe the reason why we need the residual block? How is it implemented? What problem does the block solve? What are the intuitions behind using it?
 - Describe the reason of using leaky ReLU activation function. What problem does it solve? How is it implemented?
-- If I give you an image in a numpy array, and a kernel also in a numpy array, how to write code to compute the result of convolution using a particular stride and zero-padding? If I just ask you to calculate the shape of the output, how to do that? Also, how to do the calculation of convolution and the shape by hand for simple cases (such as the exercises that we did during the lecture)?
-- Given an image (with arbitrary width, height, and number of channels) and a convolutional neural net block (with arbitrary kernel size, stride, and zero-padding), how to compute the number of training parameters?
+- If we give you an image in a numpy array, and a kernel also in a numpy array, how to write code to compute the result of convolution using a particular stride and zero-padding? If I just ask you to calculate the shape of the output, how to do that? Also, how to do the calculation of convolution and the shape by hand for simple cases (such as the exercises that we did during the lecture)?
+- Given an image (with arbitrary width, height, and number of channels) and a convolutional neural net block (with arbitrary kernel size, stride, and zero-padding), how to compute the number of training parameters? How about a fully-connected layer?
+- Describe how the max pooling layer works. Are there training parameters in the layer? If yes, what are these training parameters?
+- Describe how the normalization layer works (mathematically). Are there training parameters in the layer? If yes, what are these training parameters? Also, explain why we need Batch Normalization.
+- Explain how Class Activation Mapping works conceptually. How can we construct the class activation map (using information from which layer in the network)?
 
 ## Additional Resources
 

@@ -38,11 +38,11 @@ Below are the slides:
 
 See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to use the exercises.
 
-- If I ask you to calculate the cosine similarity by writing python code, how to do that? You can use the cosine similarity exercise in the lecture slide as an example. If the vector is in a higher dimensional space (e.g., 3D or 4D), how to do the calculation using code?
-- If I ask you to calculate the softmax of an array with arbitrary length by writing python code, how to do that?
+- If we ask you to calculate the cosine similarity by writing python code, how to do that? You can use the cosine similarity exercise in the lecture slide as an example. If the vector is in a higher dimensional space (e.g., 3D or 4D), how to do the calculation using code?
+- If we ask you to calculate the softmax of an array with arbitrary length by writing python code, how to do that?
 - Explain the role of the Likelihood function in training a Word2Vec model. Your explanation should clearly cover: (a) what "likelihood" means conceptually in this context, (b) how maximizing likelihood connects to predicting context words from center words, and (c) the mathematical components of the Likelihood function (and what does the mathematical components mean).
 - Describe what a topic vector means conceptually. What do the numbers in a topic vector mean?
-- If I give you a joint probability table, how to calculate the conditional probability?
+- If we give you a joint probability table, how to calculate the conditional probability?
 - Describe the attention mechanism. Why do we need the attention mechanism (and not just using a simple recurrent neural network)? How to construct key, value, and query vectors? Where do they come from? How to combine them together to a final representation of a sentence, and then do the prediction of the next word?
 - Why do we need cosine similarity or dot product when training word embeddings? What are their roles?
 - Explain how to design a neural network architecture to train the Word2Vec model using the skip-gram approach. How does the input look like? How does the output look like? Where can we get the embedding vector? How can we train the model using which loss function? What is negative sampling and why do we need  it when training the Word2Vec model?

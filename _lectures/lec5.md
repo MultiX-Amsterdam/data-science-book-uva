@@ -39,6 +39,9 @@ See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to u
 
 - Explain the difference between linear regression and logistic regression. What are they used for? How to think about them from the artificial neuron perspective? What activation functions do they use? What loss functions do they use? Why not just using linear regression to predict the probabilities for the binary classification task?
 - What activation functions to choose if the data points are linearly separable in a high-dimensional feature space? If the data points are not linearly separable, what are the activation functions to use?
+- What is the role of a loss function? Why do we need it in the training process?
+- If we ask you to compute the gradient descent for 10 steps, how to write Python code to compute the gradient descent updates, just like what we did in the class exercise?
+- Why do we need lasso and ridge regularization? How do they work (mathematically, what is the math that is added to the loss function)? What do they mean geometrically? What are their behaviors in terms of shrinking the coefficients toward zero?
 
 ## Additional Resources
 

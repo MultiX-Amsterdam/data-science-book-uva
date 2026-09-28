@@ -41,10 +41,9 @@ See [Exercises]({{ site.baseurl }}/syllabus#how-to-use-exercises) about how to u
 - Explain the difference between a feedforward neural network and a recurrent neural network. What are the differences between their inputs? Are there any differences in the neural net architecture?
 - Explain the procedure of constructing a random forest. What are the underlying small models in a random forest? How to train each small model? How to aggregate the output from these small models?
 - Compared with a decision tree model, what are the advantages of a random forest in terms of bias and variance tradeoff? Also, describe the underlying statistical theory that makes random forest work well.
-- If I give you the probabilities of seeing each side of a two-sided coin, how to compute entropy by writing Python code? What about a dice that has four sides and six sides?
+- If we give you the probabilities of seeing each side of a two-sided coin, how to compute entropy by writing Python code? What about a dice that has four sides and six sides?
 - Describe PCA conceptually. Given a coordinate system with many data points, what does PCA do to the coordinate system? Is PCA doing something to the origin of the coordinate system, and in which way? Think about what will happen after PCA if you look at the data on the principal component axes.
 - Explain what under-fitting and over-fitting mean in terms of bias, variance, and model complexity. What does a high-bias and low-variance model mean intuitively? Also, what does a low-bias and high-variance model mean? Think about the situation when we run the experiment infinite number of times (so we have infinite number of datasets and models).
-- Why do we need lasso and ridge regularization? How do they work (mathematically, what is the math that is added to the loss function)? What do they mean geometrically? What are their behaviors in terms of shrinking the coefficients toward zero?
 
 ## Additional Resources
 

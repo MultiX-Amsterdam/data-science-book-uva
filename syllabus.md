@@ -157,6 +157,9 @@ Please refer to the [schedule outline](index#schedule-outline) for the mid-term 
 - Do the mock exams
 - Do the exercises for the theory lectures (in the "Exercises" section of the web page of these lectures)
 
+{: .important }
+> Please note that the provided mock exams are from previous years. However, course content evolves over time, and students find the actual exams more challenging than the mock exams. Therefore, in addition to these mock exams, please also complete the theory lecture exercises for preparation.
+
 {: .note }
 > Note that this course has many readings (e.g., those in the "Required Course Readings" and "Optional Course Readings" parts). The exams will be based on the lecture slides (primarily) and the required course readings (secondly). If a concept appears on the lecture slides, it may appear on the exam, and the course readings are used to support the concept with more explanations and details. If a concept appears in the course readings but not on the slides, it will not appear on the exam. The optional course readings are used as additional resources for fact-checking if you use GenAI.
 

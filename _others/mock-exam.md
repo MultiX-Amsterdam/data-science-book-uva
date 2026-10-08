@@ -6,7 +6,7 @@ nav_order: 0
 
 # Mock Exam
 
-(Last updated: Jan 22, 2026)
+(Last updated: Oct 8, 2026)
 
 Below we provide mock mid-term and final exams and the answers for you to practice. Do not look at the answers before doing them by yourself first.
 

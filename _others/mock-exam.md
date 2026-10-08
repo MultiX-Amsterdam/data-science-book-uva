@@ -8,7 +8,10 @@ nav_order: 0
 
 (Last updated: Jan 22, 2026)
 
-Below we provide mid-term and final exams and the answers for you to practice. Do not look at the answers before doing them by yourself first.
+Below we provide mock mid-term and final exams and the answers for you to practice. Do not look at the answers before doing them by yourself first.
+
+{: .important }
+> Please note that these mock exams are from previous years. However, course content evolves over time, and students find the actual exams more challenging than the mock exams. Therefore, in addition to these mock exams, please also complete the theory lecture exercises for preparation.
 
 ## Mid-term Exam
 

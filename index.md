@@ -67,7 +67,7 @@ Below are the explanation of terms:
   - Seminar 4: Work on Assignment 3.
 - Week 7
   - [Lecture 11](lectures/lec11): Introduction of multimodal data processing
-  - Lecture 12: Guest lecture (the first hour) and review of final exam materials (the second hour). Note that the guest lecture will NOT be recorded.
+  - Lecture 12: Review of final exam materials and also go through some exercises (provided for each theory lecture). Notice that we have canceled the guest lecture.
   - Seminar 5: Work on the [mock exams](others/mock-exam) and [prepare for the final exam](syllabus#exam-preparation).
   - <span style="color:rgb(221,46,46)">**Submit**</span> the [reflective writing](syllabus#reflective-writing-of-assignments) for Assignment 3 (<span style="color:rgb(221,46,46)">**Deadline Oct 13 Tuesday at 23:59**</span>).
 - Week 8

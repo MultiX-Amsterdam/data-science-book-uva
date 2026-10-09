@@ -192,6 +192,7 @@ For most of the theory lectures, we add exercises (i.e., a set of questions). Wo
 > - There are scrap papers at the exam location, and we will provide them.
 > - You must follow the instructions in the exam room (or outside the room) to sit in specific rows. The room may host multiple exams at the same time, and we need to locate you to check the IDs. If you sit in other rows, we may not be able to locate you, and in this case, your exam result could be invalid.
 > - Once you start logging in to the computer, do NOT change seats. If you change the seat and the computer logs in later using your account, the other student who comes later and sits at the desk with the computer (which is aleady logged in using your account) will share the same storage space for the Jupyter notebooks, which is strictly not allowed. If the login process takes too long, please raise your hand to inform the exam supervisors, and the technician in the room will help you.
+> - All students must strictly follow the exam's start and end times. No extra time will be granted to compensate for the time lost if you arrive late.
 
 {: .warning }
 > Anyone who arrives more than 30 minutes late cannot participate in the exam. This is the university's rule.

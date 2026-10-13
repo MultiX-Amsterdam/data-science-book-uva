@@ -132,7 +132,7 @@ The Jupyter Notebook on the exam computers have numpy, scipy, and pandas install
 Exams contains only multiple-choice questions to test your general knowledge of data science and also coding knowledge. We provide mock exams for you to practice.
 
 {: .warning }
-> The University of Amsterdam owns the materials in this exam (e.g., the question sets), which means the materials are copyright-protected. You must keep the exam content confidential and are not allowed to copy or distribute the content in any form.
+> The University of Amsterdam owns the materials in this exam (e.g., the question sets), which means the materials are copyright-protected. You must keep the exam content confidential and are not allowed to copy or distribute the content in any form. You are also not allowed to take the exam questions with you in any form.
 
 ### Exam Grade Calculation
 

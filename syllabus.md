@@ -72,6 +72,8 @@ Your final grade is based on assignments and exams:
 - 45% weight for the mid-term exam
 - 45% weight for the final exam
 
+The final grade will then be rounded according to the OER (teaching and examination regulation). See "Artikel A-4.6 Cijfers" in [OER part A](https://student.uva.nl/informatie/onderwijs-en-examenregelingen-oer) for details.
+
 There is one resit for the course, which counts as 90% weight. There is no opportunity to do the resit for the reflective writing (10% weight). According to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), the most recent grade will apply in the event of a resit regardless of the outcome. This means that if you take the resit, your resit score will override the weighted sum of your mid-term and final exam grades.
 
 {: .warning }

@@ -81,7 +81,7 @@ There is one resit for the course, which counts as 90% weight. There is no oppor
 
 The base grade for each exam is 1. The base grade only applies when you attend the exam. If you miss the exam, the grade will be 0 for that exam.
 
-According to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), <span style="color:rgb(221,46,46)">you need to get at least 5.5 in **BOTH** the practical and theory parts to pass the course</span>. This means:
+According to the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), <span style="color:rgb(221,46,46)">you need to get at least 5.5 in **BOTH** the practical and theory parts to pass the course</span>. See "Artikel B-4.15 Reglement beoordeling" in OER part B for details. This means:
 - **Theory** part: the weighted sum of the scores of the mid-term and final exams must be at least 5.5
 - **Practical** part: the weighted sum of the scores of all reflective writing submissions for the assignments must be at least 5.5
 
